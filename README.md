@@ -13,17 +13,18 @@ students will:
 
 ## Schedule 
 
-|   | Time   |    | Activity | Description
-| 1 | 5 min  |   5| TT       | CSS intro
-| 2 | 10 Min |  15| Quiz     | Diagnostic quiz CSS
-| 3 | 10 min |  25| Pair     | Pair up with a partner and check your answers
-| 4 | 20 min |  45| I do, we do | Adding styles 
-| 5 | 5 min  |  50| TT       | CSS syntax, Selectors, Properties, and values
-| 6 | 10 min |  60| Break    | 
-| 7 | 10 min |  70| Pair     | CSS Diner quiz
-| 8 | 5 min  |  75| TT       | Using selectors effectively
-| 9 | 30 min | 105| work     |
-|10 | 5 min  | 110| TT       | Some design tips
+|   | Time   |    | Activity | Description|
+|---|--------|----|----------|------------|
+| 1 | 5 min  |   5| TT       | CSS intro |
+| 2 | 10 Min |  15| Quiz     | Diagnostic quiz CSS |
+| 3 | 10 min |  25| Pair     | Pair up with a partner and check your answers |
+| 4 | 20 min |  45| I do, we do | Adding styles |
+| 5 | 5 min  |  50| TT       | CSS syntax, Selectors, Properties, and values |
+| 6 | 10 min |  60| Break    |   |
+| 7 | 10 min |  70| Pair     | CSS Diner quiz |
+| 8 | 5 min  |  75| TT       | Using selectors effectively |
+| 9 | 30 min | 105| work     |   |
+|10 | 5 min  | 110| TT       | Some design tips |
 
 ### 1 - What is CSS? 
 
