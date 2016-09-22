@@ -29,11 +29,12 @@ students will:
 ### 1 - What is CSS? 
 
 - CSS enforces the separation of content and presentation. 
+- CSS is a language of visual description. 
 - CSS is super powerful it can: 
-- Set the font, size, color, line spacing, etc
-- Set image and color fills, border styles, size and position
-- Animation
-- Apply styles for interactive states
+  - Set the font, size, color, line spacing, etc
+  - Set image and color fills, border styles, size and position
+  - Animate elements on the page
+  - Apply styles for interactive states
 
 ### 2 - Diagnostic quiz
 
@@ -73,6 +74,51 @@ Here are the most common selectors that you will use often:
   - Challenge: Use only tag selectors along with descendant and child selectors
 - Style your App page
   - Challenge: Use only class names
+- Try these CSS style properties:
+  - font-size
+  - font-family
+  - color (sets the color of text)
+  - line-height
+  - font-weight
+  - background-color
+  - Find some other properties and have fun!
+
+Investigate font pairs that work together: [http://fontpair.co](http://fontpair.co)
+Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
 
 ## Projects and Challenges
+
+The style guide is something we will continue to work on and improve. At this stage you will not have enough information 
+to do all of the things you may think of, that’s okay. We will be talking about new things you can add to your style guide 
+as the class progresses. 
+
+- Make a style guide (chose one or more the markup examples)
+  - Identify each of the uniquely styled elements in your HTML document
+    - Use one or more of the projects from the previous class
+    - Separate the elements and create specimens in an HTML file
+      - Colors
+      - Default font style
+      - Heading
+      - Sub headings
+      - Call outs
+      - Block quote
+      - Image
+      - Header
+  - Define styles for common text content tags: 
+    - p, h1-6, blockquote, strong, em, a
+  - Challenge: Style form elements
+  - Challenge: Create a sample style guide page with code samples and specimens
+    - In order to create code samples in HTML you will to understand 
+      - HTML entities
+      - Code and pre tags
+- Create a style guide for the screenplay. 
+  - The best approach here is to use class names for things like: voice-over, screen direction, character name and other things that are specific to screen plays and don’t have an existing tag. 
+- Make some really great buttons
+  - Use the <button> tag and set the styles to make it look really cool
+  - Take a look at the button examples here and see if you can recreate them or make your own version: [https://www.freshdesignweb.com/css3-buttons/](https://www.freshdesignweb.com/css3-buttons/) to recreate these you will need more CSS than we have covered so far, that’s okay, try it on your own and push yourself.  
+
+## Resources
+
+[http://styleguides.io](http://styleguides.io)
+[http://alistapart.com/article/creating-style-guides](http://alistapart.com/article/creating-style-guides)
 
