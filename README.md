@@ -119,6 +119,6 @@ as the class progresses.
 
 ## Resources
 
-[http://styleguides.io](http://styleguides.io)
-[http://alistapart.com/article/creating-style-guides](http://alistapart.com/article/creating-style-guides)
+- [http://styleguides.io](http://styleguides.io)
+- [http://alistapart.com/article/creating-style-guides](http://alistapart.com/article/creating-style-guides)
 
