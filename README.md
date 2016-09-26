@@ -32,17 +32,19 @@ students will:
 - CSS is a language of visual description. 
 - CSS is super powerful it can: 
   - Set the font, size, color, line spacing, etc
+  - Set the size, position and layout of elements in a page
   - Set image and color fills, border styles, size and position
-  - Animate elements on the page
+  - Animate elements on a page
   - Apply styles for interactive states
+  
+(an element is a tag and all of it's contents)
 
 ### 2 - Diagnostic quiz
 
-### 3 - Pair up and check your answers 
+### 3 - Pair up and check your answers
 
-### 4 - Example Style 
+### 4 - CSS syntax, Selectors, Properties, and Values
 
-### 5 - CSS syntax, Selectors, Properties, and Values
 - Not case sensitive, you should stick with lowercase
 - A CSS Rule is built
   - A selector
@@ -53,6 +55,10 @@ students will:
   - In the style attribute
     - This is the least useful save it for special occasions
     - The selector is implied 
+    
+### 5 - Example Style
+
+
 
 ### 6 - Take a Break
 
