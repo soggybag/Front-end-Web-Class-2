@@ -18,8 +18,8 @@ students will:
 | 1 | 5 min  |   5| TT       | CSS intro |
 | 2 | 10 Min |  15| Quiz     | Diagnostic quiz CSS |
 | 3 | 10 min |  25| Pair     | Pair up with a partner and check your answers |
-| 4 | 20 min |  45| I do, we do | Adding styles |
-| 5 | 5 min  |  50| TT       | CSS syntax, Selectors, Properties, and values |
+| 4 | 20 min |  45| TT       | CSS syntax, Selectors, Properties, and values |
+| 5 | 5 min  |  50| I do, we do | Adding styles |
 | 6 | 10 min |  60| Break    |   |
 | 7 | 10 min |  70| Pair     | CSS Diner quiz |
 | 8 | 5 min  |  75| TT       | Using selectors effectively |
@@ -58,7 +58,7 @@ students will:
     
 ### 5 - Example Style
 
-
+Markup (index.html)[index.html]
 
 ### 6 - Take a Break
 
