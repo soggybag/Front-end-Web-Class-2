@@ -58,7 +58,11 @@ students will:
     
 ### 5 - Example Style
 
-Markup (index.html)[index.html]
+There are hudnereds of CSS style properties. See the list for yourself: 
+[https://developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference). 
+Don't feel you need to know all of these yet. We will be looking at important CSS properties in future classes. 
+
+Markup [index.html](index.html)
 
 ### 6 - Take a Break
 
