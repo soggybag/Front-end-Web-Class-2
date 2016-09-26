@@ -70,13 +70,21 @@ Markup [index.html](index.html)
 
 ### 8 - Use selectors effectively
 
-There are many many selectors. You don’t need them all. Don’t feel you have use them all at the beginning. 
+There are many many selectors. Don’t feel you have use them all. 
 Here are the most common selectors that you will use often:
 
 - Tag selector
 - Class selector
 - Descendant selector
 - Child selector
+
+There are many pseudo selectors that are useful for special occasions. For now it's probably best to familiarize yourself
+with: 
+
+- :link
+- :visited
+- :hover
+- :active
 
 ### 9 - Style your work
 
