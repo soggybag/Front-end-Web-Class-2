@@ -46,9 +46,9 @@ students will:
 ### 4 - CSS syntax, Selectors, Properties, and Values
 
 - Not case sensitive, you should stick with lowercase
-- A CSS Rule is built
+- A CSS Rule is built from:
   - A selector
-  - Containing one or more property value pairs
+  - declaration with one or more property value pairs
 - CSS can live in
   - CSS file with the extension .css
   - In the style tag
