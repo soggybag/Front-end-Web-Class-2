@@ -139,4 +139,6 @@ as the class progresses.
 
 - [http://styleguides.io](http://styleguides.io)
 - [http://alistapart.com/article/creating-style-guides](http://alistapart.com/article/creating-style-guides)
+- [https://www.youtube.com/watch?v=x_0rE6ovWCI&list=PLoN_ejT35AEj4HJOkJK7nr4prSN0ZRT3H][https://www.youtube.com/watch?v=x_0rE6ovWCI&list=PLoN_ejT35AEj4HJOkJK7nr4prSN0ZRT3H]
+
 
