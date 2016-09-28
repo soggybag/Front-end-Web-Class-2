@@ -15,16 +15,15 @@ students will:
 
 |   | Time   |    | Activity | Description|
 |---|--------|----|----------|------------|
-| 1 | 5 min  |   5| TT       | CSS intro |
-| 2 | 10 Min |  15| Quiz     | Diagnostic quiz CSS |
-| 3 | 10 min |  25| Pair     | Pair up with a partner and check your answers |
-| 4 | 20 min |  45| TT       | CSS syntax, Selectors, Properties, and values |
-| 5 | 5 min  |  50| I do, we do | Adding styles |
-| 6 | 10 min |  60| Break    |   |
-| 7 | 10 min |  70| Pair     | CSS Diner quiz |
-| 8 | 5 min  |  75| TT       | Using selectors effectively |
-| 9 | 30 min | 105| work     |   |
-|10 | 5 min  | 110| TT       | Some design tips |
+| 1 | 5 min  |   5| TT       | CSS intro  |
+|   |        |    |          |            | 
+| 3 | 20 min |  45| TT       | CSS syntax, Selectors, Properties, and values |
+| 4 | 5 min  |  50| I do, we do | Adding styles |
+| 5 | 10 min |  60| Break    |   |
+| 6 | 10 min |  70| Pair     | CSS Diner quiz |
+| 7 | 5 min  |  75| TT       | Using selectors effectively |
+| 8 | 30 min | 105| work     |   |
+| 9 | 5 min  | 110| TT       | Some design tips |
 
 ### 1 - What is CSS? 
 
@@ -36,12 +35,52 @@ students will:
   - Set image and color fills, border styles, size and position
   - Animate elements on a page
   - Apply styles for interactive states
+  - and more...
   
-(an element is a tag and all of it's contents)
+#### How do you use CSS?
 
-### 2 - Diagnostic quiz
+CSS can be written in a file  and linked to an HTML file: 
 
-### 3 - Pair up and check your answers
+`<link rel="stylesheet" href="styles.css">`
+
+You can also write CSS inside the  `<style>` tag: 
+
+```
+<style>
+  /* Your CSS styles here... */
+</style>
+```
+
+#### How do write CSS?
+
+CSS is defined as a collection of rules. Each rule is made up of a selector followed by a block:
+
+```
+selector { ...block... }
+```
+
+Inside the block you will define property and  value pairs that set styles for the  elements that match the selector. 
+The following  sets the H1 to red,  36px, and Helevtica.
+
+```
+h1 {
+  font-family: Helvetica;
+  font-size: 36px;
+  color: red;
+}
+```
+
+The selector `h1` in this case targets all tags named h1. 
+
+#### Exercise:  Style the sample document
+
+sample-1.html
+
+Use the  list of styles here to look up  each of the styles  below as you apply them. 
+
+- Set the font of the h1 to Helvetica
+- set the font-size of  the body tag to  18px
+- Set the  color of the body tag to 
 
 ### 4 - CSS syntax, Selectors, Properties, and Values
 
