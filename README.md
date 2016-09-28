@@ -151,6 +151,10 @@ Choices should be clearly laid out.
 Make type that is comfortable to read.  Use line spacing, and  constrast  to make your type more legible. 
 Avoid overly saturated  colors and harsh constrast. 
 
+Avoid center aligned text. 
+
+Limit the number of fonts to one, two, maybe three at most. 
+
 ## Projects and Challenges
 
 The style guide is something we will continue to work on and improve. At this stage you will not have enough information 
