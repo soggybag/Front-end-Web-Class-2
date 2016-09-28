@@ -148,6 +148,9 @@ Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
 Have a clear typographic hierarchy. Visitors should know where to begin and what to do next. 
 Choices should be clearly laid out. 
 
+Make type that is comfortable to read.  Use line spacing, and  constrast  to make your type more legible. 
+Avoid overly saturated  colors and harsh constrast. 
+
 ## Projects and Challenges
 
 The style guide is something we will continue to work on and improve. At this stage you will not have enough information 
