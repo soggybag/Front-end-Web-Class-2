@@ -60,7 +60,7 @@ selector { ...block... }
 ```
 
 Inside the block you will define property and  value pairs that set styles for the  elements that match the selector. 
-The following  sets the H1 to red,  36px, and Helevtica.
+The following  sets the H1 to red,  36px, and Helvetica.
 
 ```
 h1 {
@@ -142,6 +142,11 @@ with:
 
 Investigate font pairs that work together: [http://fontpair.co](http://fontpair.co)
 Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
+
+####  Simple rules for type
+
+Have a clear typographic hierarchy. Visitors should know where to begin and what to do next. 
+Choices should  be clearly 
 
 ## Projects and Challenges
 
