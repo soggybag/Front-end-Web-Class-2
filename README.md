@@ -18,7 +18,7 @@ students will:
 | 1 | 5 min  |   5| TT       | What is CSS? |
 | 2 | 5 min  |  10| I do, we do | Create a style sheet, link it to a document |
 | 3 | 5 min  |  15| TT       | CSS syntax, Selectors, Properties, and values |
-| 4 | 5 min  |  50| I do, we do | Adding styles |
+| 4 | 5 min  |  50| I do, we do | Applying styles |
 | 5 | 10 min |  60| Break    |   |
 | 6 | 10 min |  70| Pair     | CSS Diner quiz |
 | 7 | 5 min  |  75| TT       | Using selectors effectively |
@@ -56,9 +56,13 @@ Styles can also be added to any tag with the style attribute:
 
 `<h1 style="color: red">hello World</h1>`
 
+### 2 - Create a style sheet, link it to a document
+
 Linking to a file (first example) is the preferred method. 
 
-#### How do write CSS?
+[example-1.html](example-1.html)
+
+### 3 - CSS syntax, Selectors, Properties, and values
 
 CSS is defined as a collection of rules. Each rule is made up of a selector followed by a block:
 
@@ -79,17 +83,33 @@ h1 {
 
 The selector `h1` in this case targets all tags named h1. 
 
-#### Exercise:  Style the sample document
+### 4 - Applying styles
 
-sample-1.html
+Contunue with the previous example and apply some styles. 
+
+#### Font styles
 
 Use the  list of styles here to look up  each of the styles  below as you apply them. 
 
-- Set the font of the h1 to Helvetica
+- Set the font-family of the h1 to Helvetica
 - set the font-size of  the body tag to  18px
-- Set the  color of the body tag to 
+- Set the color of the body tag to 
+- Set the H1 font-size in ems
+- set the line-height
 
-### 4 - CSS syntax, Selectors, Properties, and Values
+####  Margin
+
+- Set the margin-top and margin-bottom of the H1 and P tags
+- Set the margin-left and margin-right of a wrapper 
+
+
+
+
+
+
+
+
+
 
 - Not case sensitive, you should stick with lowercase
 - A CSS Rule is built from:
