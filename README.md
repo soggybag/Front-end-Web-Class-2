@@ -39,7 +39,7 @@ students will:
   
 #### How do you use CSS?
 
-CSS can be written in a file  and linked to an HTML file: 
+CSS can be written in a file and linked to an HTML document: 
 
 `<link rel="stylesheet" href="styles.css">`
 
@@ -59,8 +59,8 @@ CSS is defined as a collection of rules. Each rule is made up of a selector foll
 selector { ...block... }
 ```
 
-Inside the block you will define property and  value pairs that set styles for the  elements that match the selector. 
-The following  sets the H1 to red,  36px, and Helvetica.
+Inside the block you will define property and value pairs that set styles for the elements that match the selector. 
+The following  sets the H1 to red, 36px, and Helvetica.
 
 ```
 h1 {
@@ -141,11 +141,46 @@ with:
   - background-image
   - background-size
   - Find some other properties and have fun!
+  
+#### Units
 
-Investigate font pairs that work together: [http://fontpair.co](http://fontpair.co)
-Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
+Except for a couple exceptions every value you declare must include a unit. Typical units are: 
 
-####  Simple rules for type
+- px - pixels
+- pt - points (1/72 in)
+- mm - millimeters
+- cm - centimeters
+- in - inches
+- em - A unit equal to the current font size 
+- % - Percent
+
+#### Colors 
+
+There are several ways to sepcify a color in CSS. 
+
+Hex colors: 
+
+#57c409 - a mild green
+
+#dddddd - light gray
+
+When the pairs repeat can be written as: 
+
+#ddd
+
+Hex colors begin with the # followed by 3 or 6 digits. With each digit being a number between 0 and f. The first two 
+digits represent the red component, the second two digits represent the green component, and the last two represent 
+the blue component. 
+
+RGB values can be used in this form: 
+
+rgb(74, 144, 226) -  a friendly  blue
+
+RGBA  rgb with an alpha component: 
+
+rgba(224, 67, 67, 0.5) -  red  50% transparent
+
+####  Simple rules for creating good typography
 
 Have a clear typographic hierarchy. Visitors should know where to begin and what to do next. 
 Choices should be clearly laid out. 
@@ -193,5 +228,6 @@ as the class progresses.
 - [http://styleguides.io](http://styleguides.io)
 - [http://alistapart.com/article/creating-style-guides](http://alistapart.com/article/creating-style-guides)
 - [https://www.youtube.com/watch?v=x_0rE6ovWCI&list=PLoN_ejT35AEj4HJOkJK7nr4prSN0ZRT3H][https://www.youtube.com/watch?v=x_0rE6ovWCI&list=PLoN_ejT35AEj4HJOkJK7nr4prSN0ZRT3H]
-
+- Investigate font pairs that work together: [http://fontpair.co](http://fontpair.co)
+- Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
 
