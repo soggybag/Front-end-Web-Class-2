@@ -146,7 +146,7 @@ Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
 ####  Simple rules for type
 
 Have a clear typographic hierarchy. Visitors should know where to begin and what to do next. 
-Choices should  be clearly 
+Choices should be clearly laid out. 
 
 ## Projects and Challenges
 
