@@ -138,6 +138,8 @@ with:
   - line-height
   - font-weight
   - background-color
+  - background-image
+  - background-size
   - Find some other properties and have fun!
 
 Investigate font pairs that work together: [http://fontpair.co](http://fontpair.co)
