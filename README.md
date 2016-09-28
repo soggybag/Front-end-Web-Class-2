@@ -6,18 +6,18 @@ Web design with CSS an introduction
 
 students will: 
 
-- Assess your current knowledge of CSS
+- Identify Selectors, properties, and values
+- Write CSS rules
 - Modify tags with class names
-- Formulate and use CSS selectors
-- Define and Identify CSS properties and values 
+- Formulate selectors to select anything in a page
 
 ## Schedule 
 
 |   | Time   |    | Activity | Description|
 |---|--------|----|----------|------------|
-| 1 | 5 min  |   5| TT       | CSS intro  |
-|   |        |    |          |            | 
-| 3 | 20 min |  45| TT       | CSS syntax, Selectors, Properties, and values |
+| 1 | 5 min  |   5| TT       | What is CSS? |
+| 2 | 5 min  |  10| I do, we do | Create a style sheet, link it to a document |
+| 3 | 5 min  |  15| TT       | CSS syntax, Selectors, Properties, and values |
 | 4 | 5 min  |  50| I do, we do | Adding styles |
 | 5 | 10 min |  60| Break    |   |
 | 6 | 10 min |  70| Pair     | CSS Diner quiz |
@@ -39,7 +39,8 @@ students will:
   
 #### How do you use CSS?
 
-CSS can be written in a file and linked to an HTML document: 
+CSS is written in a plain text document with the .css file extension.
+Link your css files to you HTML documents by adding the following to the head tag: 
 
 `<link rel="stylesheet" href="styles.css">`
 
@@ -50,6 +51,12 @@ You can also write CSS inside the  `<style>` tag:
   /* Your CSS styles here... */
 </style>
 ```
+
+Styles can also be added to any tag with the style attribute: 
+
+`<h1 style="color: red">hello World</h1>`
+
+Linking to a file (first example) is the preferred method. 
 
 #### How do write CSS?
 
