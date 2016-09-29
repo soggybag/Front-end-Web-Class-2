@@ -189,25 +189,25 @@ There are several ways to sepcify a color in CSS.
 
 Hex colors: 
 
-#57c409 - a mild green
+`#57c409 - a mild green`
 
-#dddddd - light gray
+`#dddddd - light gray`
 
 When the pairs repeat can be written as: 
 
-#ddd == #dddddd == #DDDDDD == #DDD
+`#ddd == #dddddd == #DDDDDD == #DDD`
 
-Hex colors begin with the # followed by 3 or 6 digits. With each digit being a number between 0 and f. The first two 
+Hex colors begin with the `#` followed by 3 or 6 digits. With each digit being a number between 0 and f. The first two 
 digits represent the red component, the second two digits represent the green component, and the last two represent 
 the blue component. 
 
 RGB values can be used in this form: 
 
-rgb(74, 144, 226) -  a friendly  blue
+`rgb(74, 144, 226) -  a friendly  blue`
 
 RGBA  rgb with an alpha component: 
 
-rgba(224, 67, 67, 0.5) -  red  50% transparent
+`rgba(224, 67, 67, 0.5) -  red  50% transparent`
 
 For more info on CSS colors take a look at these sites: 
 
@@ -250,6 +250,8 @@ learn and further your abilities! These projects continue the projects from the 
     - Investigate different ways of setting colors using hex values, and rgb, and rgba 
 
 ## Resources 
+
+- https://www.youtube.com/watch?v=x_0rE6ovWCI&list=PLoN_ejT35AEj4HJOkJK7nr4prSN0ZRT3H
 
 
 
