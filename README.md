@@ -251,6 +251,8 @@ learn and further your abilities! These projects continue the projects from the 
 
 ## Resources 
 
+- https://dash.generalassemb.ly
+- https://www.codecademy.com/learn/web
 - https://www.youtube.com/watch?v=x_0rE6ovWCI&list=PLoN_ejT35AEj4HJOkJK7nr4prSN0ZRT3H
 
 
