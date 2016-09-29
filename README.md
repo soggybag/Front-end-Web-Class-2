@@ -96,6 +96,7 @@ Use the  list of styles here to look up  each of the styles  below as you apply 
 - Set the color of the body tag to 
 - Set the H1 font-size in ems
 - set the line-height
+- color (font color)
 
 ####  Margin
 
@@ -105,6 +106,16 @@ Use the  list of styles here to look up  each of the styles  below as you apply 
 #### Background  
 
 - Set the  body background color 
+- Set a background image
+- Set the background size 
+- Set the background position
+- Set the background attachment
+
+Set the background for the H1
+
+- Set the background image
+- Set the background repeat
+- Set the background position
 
 ### 5 - Break
 
