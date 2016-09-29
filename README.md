@@ -148,27 +148,13 @@ with:
 - :active
 
 __Note!__ Be sure to define these styles in this order! This will allow them to function best. 
-You can think: __L__o__V__e and __H____A__te to remember the order. 
+You can think: LoVe and HAte to remember the order. 
 
-
-
-
-
-
-###  - Example Style
+### 9 - Style your work
 
 There are hudnereds of CSS style properties. See the list for yourself: 
 [https://developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference). 
 Don't feel you need to know all of these yet. We will be looking at important CSS properties in future classes. 
-
-Markup [index.html](index.html)
-
-### 6 - Take a Break
-
-### 7 - Learn the power of selectors take the Test: https://flukeout.github.io
-
-
-### 9 - Style your work
 
 - Style the HTML meta doc example 4
   - Challenge: Use only tag selectors along with descendant and child selectors
@@ -209,7 +195,7 @@ Hex colors:
 
 When the pairs repeat can be written as: 
 
-#ddd
+#ddd == #dddddd == #DDDDDD == #DDD
 
 Hex colors begin with the # followed by 3 or 6 digits. With each digit being a number between 0 and f. The first two 
 digits represent the red component, the second two digits represent the green component, and the last two represent 
@@ -223,54 +209,47 @@ RGBA  rgb with an alpha component:
 
 rgba(224, 67, 67, 0.5) -  red  50% transparent
 
+For more info on CSS colors take a look at these sites: 
+
+- http://www.hexcolortool.com
+- http://www.color-hex.com
+- http://htmlcolorcodes.com
+- https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
+
+Investigate color palettes here:
+
+- https://color.adobe.com/create/color-wheel/
+
 ####  Simple rules for creating good typography
 
 Have a clear typographic hierarchy. Visitors should know where to begin and what to do next. 
 Choices should be clearly laid out. 
 
-Make type that is comfortable to read.  Use line spacing, and  constrast  to make your type more legible. 
-Avoid overly saturated  colors and harsh constrast. 
+Make type that is comfortable to read.  Use line-height, and  constrast  to make your type more legible. 
+Avoid overly saturated colors and harsh constrast. 
 
 Avoid center aligned text. 
 
 Limit the number of fonts to one, two, maybe three at most. 
 
-## Projects and Challenges
+## Projects 
 
-The style guide is something we will continue to work on and improve. At this stage you will not have enough information 
-to do all of the things you may think of, that’s okay. We will be talking about new things you can add to your style guide 
-as the class progresses. 
+Try to complete as many of these projects as you can. The more you practice the more you will 
+learn and further your abilities! These projects continue the projects from the previous class. 
 
-- Make a style guide (chose one or more the markup examples)
-  - Identify each of the uniquely styled elements in your HTML document
-    - Use one or more of the projects from the previous class
-    - Separate the elements and create specimens in an HTML file
-      - Colors
-      - Default font style
-      - Heading
-      - Sub headings
-      - Call outs
-      - Block quote
-      - Image
-      - Header
-  - Define styles for common text content tags: 
-    - p, h1-6, blockquote, strong, em, a
-  - Challenge: Style form elements
-  - Challenge: Create a sample style guide page with code samples and specimens
-    - In order to create code samples in HTML you will to understand 
-      - HTML entities
-      - Code and pre tags
-- Create a style guide for the screenplay. 
-  - The best approach here is to use class names for things like: voice-over, screen direction, character name and other things that are specific to screen plays and don’t have an existing tag. 
-- Make some really great buttons
-  - Use the <button> tag and set the styles to make it look really cool
-  - Take a look at the button examples here and see if you can recreate them or make your own version: [https://www.freshdesignweb.com/css3-buttons/](https://www.freshdesignweb.com/css3-buttons/) to recreate these you will need more CSS than we have covered so far, that’s okay, try it on your own and push yourself.  
+-  Style your app page. 
+  - Feel free to update your markup.
+  - Add class names where you think they would be useful
+- Style the sample mark up from class. 
+  - Set the font properties
+    - Set the font family
+    - Set the font size
+    - Set the line height
+    - Set the color
+    - Try the text-shadow property
+    - Investigate different ways of setting colors using hex values, and rgb, and rgba 
 
-## Resources
+## Resources 
 
-- [http://styleguides.io](http://styleguides.io)
-- [http://alistapart.com/article/creating-style-guides](http://alistapart.com/article/creating-style-guides)
-- [https://www.youtube.com/watch?v=x_0rE6ovWCI&list=PLoN_ejT35AEj4HJOkJK7nr4prSN0ZRT3H][https://www.youtube.com/watch?v=x_0rE6ovWCI&list=PLoN_ejT35AEj4HJOkJK7nr4prSN0ZRT3H]
-- Investigate font pairs that work together: [http://fontpair.co](http://fontpair.co)
-- Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
+
 
