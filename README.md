@@ -237,9 +237,10 @@ Limit the number of fonts to one, two, maybe three at most.
 Try to complete as many of these projects as you can. The more you practice the more you will 
 learn and further your abilities! These projects continue the projects from the previous class. 
 
--  Style your app page. 
+- Style your app page. 
   - Feel free to update your markup.
   - Add class names where you think they would be useful
+  - Use the iTunes link maker to make a link and badge for your app: https://linkmaker.itunes.apple.com/en-us/
 - Style the sample mark up from class. 
   - Set the font properties
     - Set the font family
@@ -248,6 +249,8 @@ learn and further your abilities! These projects continue the projects from the 
     - Set the color
     - Try the text-shadow property
     - Investigate different ways of setting colors using hex values, and rgb, and rgba 
+- For more practice try styling the other examples from class 1: 
+  - 
 
 ## Resources 
 
