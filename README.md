@@ -18,12 +18,12 @@ students will:
 | 1 | 5 min  |   5| TT       | What is CSS? |
 | 2 | 5 min  |  10| I do, we do | Create a style sheet, link it to a document |
 | 3 | 5 min  |  15| TT       | CSS syntax, Selectors, Properties, and values |
-| 4 | 5 min  |  50| I do, we do | Applying styles |
-| 5 | 10 min |  60| Break    |   |
-| 6 | 10 min |  70| Pair     | CSS Diner quiz |
-| 7 | 5 min  |  75| TT       | Using selectors effectively |
-| 8 | 30 min | 105| work     |   |
-| 9 | 5 min  | 110| TT       | Some design tips |
+| 4 | 5 min  |  50| I do, we do | Applying styles       |
+| 5 | 10 min |  60| Break    |                          |
+| 6 |  5 min |  65| TT       | Closer look at selectors |
+| 7 | 15 min |  80| Pair     | CSS Diner quiz           |
+| 8 | 5 min  |  85| TT       | Using selectors effectively |
+| 9 | 25 min | 105| work     | Apply some styles to one of your web pages |
 
 ### 1 - What is CSS? 
 
@@ -105,8 +105,57 @@ Use the  list of styles here to look up  each of the styles  below as you apply 
 #### Background  
 
 - Set the  body background color 
-    
-### 5 - Example Style
+
+### 5 - Break
+
+Take a break you 've earned it!
+
+### 6 - Closer look at selectors
+
+Selectors point to elements in the DOM. Selectors allow you to select one or more elements. 
+There are many different types of selectors which allow you to select elements based on a wide variety of criteria. 
+
+### 7 - Selector Quiz
+
+Pair up and take the online quiz below. 
+
+Learn the power of selectors take the Test: https://flukeout.github.io
+
+### 8 - Use selectors effectively
+
+There are many many selectors, some of which may seem confusing at this point. 
+Don’t feel you have use them all. Your new secret super power: 
+
+Revist the quiz page anytime you have a question about selectors
+
+Your other new secret is that you don't need most  selectors. 
+The following list of selectors you can select anything on the page with great flexibility.
+Here are the most common selectors that you will use often:
+
+- Tag selector
+- Class selector
+- Descendant selector
+- Child selector
+
+#### Styling links
+
+There are many pseudo selectors that are useful for special occasions. For now it's probably best to familiarize yourself
+with: 
+
+- :link
+- :visited
+- :hover
+- :active
+
+__Note!__ Be sure to define these styles in this order! This will allow them to function best. 
+You can think: __L__o__V__e and __H____A__te to remember the order. 
+
+
+
+
+
+
+###  - Example Style
 
 There are hudnereds of CSS style properties. See the list for yourself: 
 [https://developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference). 
@@ -118,23 +167,6 @@ Markup [index.html](index.html)
 
 ### 7 - Learn the power of selectors take the Test: https://flukeout.github.io
 
-### 8 - Use selectors effectively
-
-There are many many selectors. Don’t feel you have use them all. 
-Here are the most common selectors that you will use often:
-
-- Tag selector
-- Class selector
-- Descendant selector
-- Child selector
-
-There are many pseudo selectors that are useful for special occasions. For now it's probably best to familiarize yourself
-with: 
-
-- :link
-- :visited
-- :hover
-- :active
 
 ### 9 - Style your work
 
