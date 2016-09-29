@@ -102,25 +102,9 @@ Use the  list of styles here to look up  each of the styles  below as you apply 
 - Set the margin-top and margin-bottom of the H1 and P tags
 - Set the margin-left and margin-right of a wrapper 
 
+#### Background  
 
-
-
-
-
-
-
-
-
-- Not case sensitive, you should stick with lowercase
-- A CSS Rule is built from:
-  - A selector
-  - declaration with one or more property value pairs
-- CSS can live in
-  - CSS file with the extension .css
-  - In the style tag
-  - In the style attribute
-    - This is the least useful save it for special occasions
-    - The selector is implied 
+- Set the  body background color 
     
 ### 5 - Example Style
 
