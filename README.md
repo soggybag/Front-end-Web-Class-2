@@ -265,6 +265,7 @@ learn and further your abilities! These projects continue the projects from the 
 
 ## Resources 
 
+- [Front End Web Playlist](https://goo.gl/z5fGaR) Watch videos 4 - 7
 - https://dash.generalassemb.ly
 - https://www.codecademy.com/learn/web
 - https://www.youtube.com/watch?v=x_0rE6ovWCI&list=PLoN_ejT35AEj4HJOkJK7nr4prSN0ZRT3H
